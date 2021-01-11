@@ -71,7 +71,7 @@ def gen_df(dirs, model, reg, dim=None):
     
     return df
 
-def gen_boxplot(df, index, vals, cols, title='heatmap'):
+def gen_heatmapt(df, index, vals, cols, title='heatmap'):
     """
     generates and saves a heatmap
     args:
