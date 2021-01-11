@@ -8,7 +8,7 @@ I'll create a conda `requirements.txt` later but for now run it til it breaks an
 ## Running
 
 - Move data into `/data` folder in parent directory
-- Start Jupyter notebook in project directory
+- Start `counter_notebook.ipynb` in jupyter notebook
 - modify all variable values for data
 - run first code cell and select diretories
 - run rest of cells
